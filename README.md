@@ -10,6 +10,12 @@
 * `git config --list` - list current git configuration
 * `git config --help` - list options and syntax for git configuration
 
+
+### Remote Commands
+* `git pull origin main` - pull remote branch `main ` into current local branch
+* `git push origin main` - push local commit to remote repository
+
+
 ### Branching Commands
 * `git branch -M newName` -Rename current branch to `newName`
 * `git branch newBranch` - created branch `newBranch`
