@@ -8,7 +8,7 @@
 * `git log` - list commits
 * `git log --oneline` - list commits in compact format
 * `git config --list` - list current git configuration
-
+* `git config --help` - list options and syntax for git configuration
 
 ### Branching Commands
 * `git branch -M newName` -Rename current branch to `newName`
