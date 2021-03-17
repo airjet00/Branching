@@ -7,6 +7,7 @@
 * `git commit -m "message"` - commit staged changed to local repository
 * `git log` - list commits
 * `git log --oneline` - list commits in compact format
+* `git config --list` - list current git configuration
 
 
 ### Branching Commands
